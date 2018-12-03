@@ -1,1 +1,1 @@
-# new-bot-awmer
+# lordsbot
